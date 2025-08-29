@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "@langchain/core": "^0.3.72",
+    "@langchain/google-genai": "^0.2.16",
+    "@langchain/groq": "^0.2.3",
+    "@langchain/openai": "^0.6.9",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  },
+  "name": "first_day",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000g\u0000e\u0000n\u0000a\u0000i\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thesawankumar/genai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thesawankumar/genai/issues"
+  },
+  "homepage": "https://github.com/thesawankumar/genai#readme"
+}
